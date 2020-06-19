@@ -1,2 +1,0 @@
-# Terracore-WebAPI-Template
-
