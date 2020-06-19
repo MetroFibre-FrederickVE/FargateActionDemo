@@ -22,5 +22,6 @@
     "networkMode": "awsvpc",
     "memory": "512",
     "cpu": "256",
-    "family": "sample-fargate"
+    "family": "sample-fargate",
+    "executionRoleArn": "arn:aws:iam::AKIAXGB57XKBKFECULXD:role/ecsTaskExecutionRole"
 }
