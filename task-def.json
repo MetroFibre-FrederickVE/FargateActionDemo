@@ -23,5 +23,5 @@
     "memory": "512",
     "cpu": "256",
     "family": "sample-fargate",
-    "executionRoleArn": "arn:aws:iam::AKIAXGB57XKBKFECULXD:role/ecsTaskExecutionRole"
+    "executionRoleArn": "arn:aws:iam::494051244674:role/ecsTaskExecutionRole"
 }
